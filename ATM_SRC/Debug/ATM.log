@@ -1,0 +1,6 @@
+﻿  Save_money.cpp
+  Withdraw_money.cpp
+D:\01 - Programming\ATM\ATM\Withdraw_money.cpp(113,7): warning C4101: “c”: 未引用的局部变量
+D:\01 - Programming\ATM\ATM\Withdraw_money.cpp(112,9): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  ATM.vcxproj -> D:\01 - Programming\ATM\ATM\Debug\ATM.exe
